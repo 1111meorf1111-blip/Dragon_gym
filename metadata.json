@@ -1,0 +1,7 @@
+{
+  "name": "Dragon Gym ",
+  "description": "الموقع الرسمي لصالة Dragon Gym الرياضية بإدارة الكابتن مراد ادهم، الانبار - القائم - العبيدي. تصميم عصري واحترافي بألوان الأسود والأصفر.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
